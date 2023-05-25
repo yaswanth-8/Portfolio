@@ -1,0 +1,19 @@
+.progress {
+    margin-bottom: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.356);
+}
+.progress-bar-success {
+    background-color: #28a745;
+}
+.table-wrapper {
+background-color: #f8f9fa;
+border-radius: 5px;
+margin-bottom: 50px;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+tr:hover{
+    transform: scale(1.1);
+}
